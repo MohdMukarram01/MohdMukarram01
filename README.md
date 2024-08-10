@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohd_mukarram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohd_mukarram" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/mohd mukarram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd mukarram" height="30" width="40" /></a>
 <a href="https://fb.com/mohd mukarram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohd mukarram" height="30" width="40" /></a>
 <a href="https://instagram.com/ll_mohd_mukarram_ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ll_mohd_mukarram_ll" height="30" width="40" /></a>
